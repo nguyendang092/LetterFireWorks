@@ -1,0 +1,10 @@
+body {
+	cursor: url("./cursor.jpg") auto;
+}
+canvas {
+	display: block;
+}
+
+.block-audio {
+	display: none;
+}

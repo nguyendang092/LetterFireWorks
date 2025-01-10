@@ -11,10 +11,12 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+	cursor: url('./cursor.png');
 }
 
 /* Add large instruction text */
 .instructions {
+	position: absolute;
 	font-size: 2rem;
 	font-weight: bold;
 	z-index: 10;

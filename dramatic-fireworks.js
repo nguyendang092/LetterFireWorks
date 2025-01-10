@@ -1,13 +1,17 @@
 /* Define more vibrant colors */
 const colors = [
-	"#ff6f91",
-	"#ff9671",
-	"#ffc75f",
-	"#f9f871",
-	"#ff4c4c",
-	"#ffcc00"
+	"#ffff33",
+	"#ffb3ff",
+	"#80ffff",
+	"#ff4dd2",
+	"#ff1a1a",
+	"#88ff4d",
+	"#b366ff",
+	"#3385ff",
+	"#cc99ff",
+	"#b3b3b3"
 ];
-const letters = "I LOVE YOU"; // Define the message you want
+const letters = "HAPPY ❤ NEW ❤ YEAR ❤"; // Define the message you want
 let letterIndex = 0; // Keep track of the current index
 
 // Get the next letter from the message
